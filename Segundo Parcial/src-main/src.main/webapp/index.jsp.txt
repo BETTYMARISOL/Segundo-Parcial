@@ -26,8 +26,8 @@
     <body>
         <div class="contenedor">
             <p>SEGUNDO PARCIAL TEM-742<br>
-                Nombre: Claudio Apaza Apaza<br>
-                Carnet: 13021903</p>
+                Nombre: Betty Marisol Quino Apaza<br>
+                Carnet: 14292554</p>
         </div>
 
         <h1 style="text-align: center;">Registro Día del Internet</h1>
